@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **django, react, tailwindcss**
+- 💬 Ask me about **django, react, tailwindcss, php, telegram bot**
 
 - 📫 How to reach me **t.me/pyC0der**
 
