@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Three.js**
 
 - 💬 Ask me about **django, react, tailwindcss, php, telegram bot**
 
