@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🌱 I’m currently learning **Three.js**
-
-- 💬 Ask me about **django, react, tailwindcss, php, telegram bot**
+- 💬 Ask me about **Django, Node.js, React/Next.js, Tailwindcss**
 
 - 📫 How to reach me **t.me/pyC0der**
 
